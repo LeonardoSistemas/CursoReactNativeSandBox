@@ -1,2 +1,0 @@
-# CursoReactNativeSandBox
-Created with CodeSandbox
